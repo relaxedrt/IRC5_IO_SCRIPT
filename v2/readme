@@ -1,0 +1,6 @@
+Solicitar a Adan añadir una celda con el devicemapping para tener
+mayor comodidad y asi utilizar comunmente el excel.
+Solicitar también definir un nombre para las tablas de variables o
+alguna forma de identificar si son Entradas o salidas de robot.
+Poner en común como identificaremos las GIs y GOs, mi recomendación es 
+poner tipo byte y en el devicemapping dar el rango en concreto a utilizar.
